@@ -27,7 +27,7 @@ returning value as truthy or falsy*/
 
   // the truthy values
   // everything after the falsy value is considered to be the truthy value 
-  let name= "sagar";
+  export let name= "sagar";
   if(name){
     console.log("name exits");
   }
