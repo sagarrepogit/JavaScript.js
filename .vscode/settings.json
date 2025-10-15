@@ -1,0 +1,7 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.overtypeCursorStyle": "line",
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorWidth": 2,
+    "terminal.integrated.cursorWidth": 2
+}
